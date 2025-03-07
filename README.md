@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anshika-Malpani
 - 👀 I’m interested in Web Development and Software Development
-- 🌱 I’m currently learning Java Script with React js.
 - 📫 To connect with me malpanianshi@gmail.com
 
 <!---
